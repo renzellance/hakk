@@ -1,0 +1,29 @@
+{
+  "name": "hakk",
+  "version": "1.0.0",
+  "description": "Type stuff on the console and start fake programming!",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test",
+    "run": "node index.js",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/renzwthbenefits/hakk.git"
+  },
+  "keywords": [
+    "console",
+    "hack",
+    "type",
+    "programming",
+    "console"
+  ],
+  "author": "Renzel Manlapaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renzwthbenefits/hakk/issues"
+  },
+  "homepage": "https://github.com/renzwthbenefits/hakk#readme",
+  "dependencies": {}
+}
